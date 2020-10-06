@@ -1,0 +1,113 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #F4F4F4;
+}
+.t1-center{
+    padding: 0;
+}
+.u-information {
+    background-color: white;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+.user-card{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+    background-color: white;
+}
+.n-infos{
+    color: #858E92;
+}
+.n-center{
+    padding: 20px;
+}
+.user-img{
+    height: 90px;
+    width: 90px;
+}
+.u-discord{
+    background-color: white;
+}
+.u-s-info{
+    padding: 20px;
+}
+.u-s-img{
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+}
+.n-time{
+    color: #858E92;
+}
+.u-s-zan img{
+    height: 30px;
+    width: 30px;
+}
+.u-s-f{
+    padding-top: 20px;
+    color: #858E92;
+    padding-bottom: 20px;
+}
+.tag{
+
+    height: 30px;
+    width: 50px;
+}
+.t1{
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 30px;
+}
+.img1{
+    height: 20px;
+    width: 20px;
+}
+
+
+.send-btn{
+    margin-left: 30px;
+}
+.page-item{
+
+}
+.author{
+    padding-left: 550px;
+}
+.op{
+    padding-right: 50px;
+}
+.aut{
+    padding-right: 80px;
+}
+.rep{
+    padding-right: 80px;
+}
+.time{
+    padding-right: 120px;
+}
+.send-title{
+    background-color: #54442A;
+    margin-top: 50px;
+}
+.send-info{
+    padding: 25px 70px 8px 40px;
+}
+.send-info-head{
+    padding-bottom: 20px;
+}
+.info-select{
+    padding-right: 20px;
+}
+.send-info-btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.font-icon{
+    height: 20px;
+    width: 20px;
+}

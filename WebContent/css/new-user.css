@@ -1,0 +1,57 @@
+        .form-group{
+            padding-top: 30px;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+        .login-btn{
+
+            margin: 30px;
+
+
+        }
+        .in-css{
+
+            border: 0;
+            border-bottom: 1px solid #ABABAB;
+
+        }
+        .in-css input{
+            border: 0;
+
+        }
+        .in-css a{
+            width: 90px;
+        }
+        body{
+            background-image: url("../img/wbg1.jpg");
+        }
+        .name-title{
+            font-family: 微软雅黑, 宋体, serif;
+            font-size: 2em;
+            padding-left: 50px;
+
+        }
+        .login-bg{
+
+            background: rgba(255, 255, 255, .5);
+            height: 500px;
+
+
+        }
+        .info{
+            margin-top: 10%;
+
+        }
+        .logo{
+            margin-left: 170px;
+        }
+        .login-info{
+            background-color: white;
+            height: 500px;
+
+        }
+        .form-group{
+            padding-top: 5px;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
